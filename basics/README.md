@@ -1,2 +1,3 @@
 working commands
 pwd
+ls
