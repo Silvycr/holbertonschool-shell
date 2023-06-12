@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Directorio actual"
+ls -la
+echo "Directorio principal"
+ls -la ~/holbertonschool-shell
+echo "Directorio boot"
+ls -la /boot
