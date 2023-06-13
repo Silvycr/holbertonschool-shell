@@ -1,5 +1,5 @@
-## TASK - PERMISSIONS
-# COMMANDS
+# TASK - PERMISSIONS
+## COMMANDS
 
 0. My name is Betty => su
 1. Who am I => id -un
