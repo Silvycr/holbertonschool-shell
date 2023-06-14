@@ -15,6 +15,6 @@
 11. Directories => chmod -R ugo+x
 12. More directories => mkdir -m 751
 13. Change group => chgrp
-14. Owner and group
+14. Owner and group => chown -R
 15. Symbolic links => chown -h
 16. If only => chown --from=
