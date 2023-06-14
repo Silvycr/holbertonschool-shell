@@ -16,5 +16,5 @@
 12. More directories => mkdir -m 751
 13. Change group => chgrp
 14. Owner and group
-15. Symbolic links
+15. Symbolic links => chown -h
 16. If only => chown --from=
